@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 I am Phd Student at Peking University EECS. 
 
-🔭 I’m currently working on Segmentation in Computer Vision. I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several specific segmetnation problems including transparent object, boundary learning, aerial segmentation, video object tracking and segmentation. 
+🔭 I’m currently working on Segmentation in Computer Vision. I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems including transparent object, boundary learning, aerial segmentation, video object detection/tracking/segmentation. 
 
-😄 Note I am looking for a job.(Post Doc and Industries, with an interest on Auto-Driving or Research). Please send me an email at lxtpku@pku.edu.cn.
+😄 Note I am looking for a job. (Post Doc and Industries, with an interest on Auto-Driving or Research). 
+Please send me an email at lxtpku@pku.edu.cn. Remote Cooperations are also welcome. 
 
 ![XiangTai 's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
