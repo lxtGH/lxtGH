@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Phd Student at Peking University EECS. 
+I am a PHD Student at Peking University EECS. 
 
 🔭 I’m currently working on Segmentation in Computer Vision. I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems including transparent object, boundary learning, aerial segmentation, video object detection/tracking/segmentation. 
 
