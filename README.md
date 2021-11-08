@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am a PHD Student at Peking University EECS. 
 
-🔭 I’m currently working on **Segmentation** in Computer Vision. I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems including transparent object, boundary learning, aerial segmentation, video object detection/tracking/segmentation. I have done several works on these directions. 
+🔭 I’m currently working on **Segmentation** in Computer Vision. I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems including transparent object, boundary learning, aerial segmentation, video object detection/tracking/segmentation. I have done several works on these directions during my Phd study. 
 
 
 😄 Note I am looking for a job. (Industries, with an interest on Auto-Driving or Research Position). 
