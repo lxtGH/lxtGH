@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a PHD Student at Peking University EECS. 
+I am Xiangtai, a PHD Student at Peking University EECS. 
 
 🔭 I’m currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
