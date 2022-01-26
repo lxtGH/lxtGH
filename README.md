@@ -34,8 +34,8 @@ aerial segmentation,
 video object detection/tracking/segmentation，
 
 
-😄 Note I am looking for a job. (Industries, with an interest on Auto-Driving or Research Position). 
-Please send me an email at lxtpku@pku.edu.cn. 
+<!-- 😄 Note I am looking for a job. (Industries, with an interest on Auto-Driving or Research Position). 
+Please send me an email at lxtpku@pku.edu.cn.  -->
 
 Remote Cooperations are also welcome. 
 
