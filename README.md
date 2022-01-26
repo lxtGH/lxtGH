@@ -37,6 +37,6 @@ video object detection/tracking/segmentation，
 <!-- 😄 Note I am looking for a job. (Industries, with an interest on Auto-Driving or Research Position). 
 Please send me an email at lxtpku@pku.edu.cn.  -->
 
-Remote Cooperations are also welcome. 
+Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
 
 ![XiangTai Lee's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
