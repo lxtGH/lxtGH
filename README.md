@@ -39,6 +39,5 @@ Please send me an email at lxtpku@pku.edu.cn.  -->
 
 Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
 
-I am looking for pos-doc and cv-related job in industry. Send me a email if you are interest with me(lxtpku@pku.edu.cn).
 
 ![XiangTai Lee's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
