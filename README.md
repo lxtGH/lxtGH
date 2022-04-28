@@ -39,5 +39,6 @@ Please send me an email at lxtpku@pku.edu.cn.  -->
 
 Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
 
+I will joint MMlab@NTU as pos-doc research fellow supervised by Prof.ccloy.
 
 ![XiangTai Lee's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
