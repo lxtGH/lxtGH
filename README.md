@@ -22,20 +22,16 @@ I am Xiangtai, a PHD Student at Peking University EECS.
 
 🔭 I’m currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my Phd study as PKU:
+I have done several works on these directions during my Phd study at PKU.
 
 (video) semantic segmentation,
 (video) instance semgentation,
 (video) panoptic segenetation,
 panoptic segmentation with depth/part,
 transparent object, 
-boundary learning, 
+boundary feature learning, 
 aerial segmentation, 
 video object detection/tracking/segmentation，
-
-
-<!-- 😄 Note I am looking for a job. (Industries, with an interest on Auto-Driving or Research Position). 
-Please send me an email at lxtpku@pku.edu.cn.  -->
 
 Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
 
