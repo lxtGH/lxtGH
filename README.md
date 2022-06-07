@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Xiangtai and I obtain a PhD at Peking University EECS. 
+I am Xiangtai and I obtain my PhD degree at Peking University EECS. 
 
 🔭 I'm a in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
 
