@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Xiangtai, a PHD Student at Peking University EECS. 
+I am Xiangtai and I obtain a PhD at Peking University EECS. 
 
-🔭 I’m currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
+🔭 I'm a in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
+🔭 I'm currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
 I have done several works on these directions during my Phd study at PKU.
 
@@ -34,7 +35,5 @@ aerial segmentation,
 video object detection/tracking/segmentation，
 
 Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
-
-I will join MMlab@NTU as pos-doc research fellow supervised by Prof.ccloy.
 
 ![XiangTai Lee's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
