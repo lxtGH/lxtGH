@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 I am Xiangtai and I obtain a PhD at Peking University EECS. 
 
 🔭 I'm a in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
+
 🔭 I'm currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
 I have done several works on these directions during my Phd study at PKU.
