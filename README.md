@@ -18,23 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Xiangtai and I obtain my PhD degree at Peking University EECS. 
+I am Xiangtai and I obtained my PhD degree at Peking University.
 
-🔭 I'm a in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
+🔭 I'm an in-coming pos-doc research fellow at MMlab@NTU advised by Prof.CCLoy.
 
-🔭 I'm currently working on **Segmentation** in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
+🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
-I have done several works on these directions during my Phd study at PKU.
+I have done several works on these directions during my PhD study at PKU.
 
-(video) semantic segmentation,
-(video) instance semgentation,
-(video) panoptic segenetation,
-panoptic segmentation with depth/part,
-transparent object, 
-boundary feature learning, 
-aerial segmentation, 
-video object detection/tracking/segmentation，
+(video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
-Remote Cooperations are welcome(lxtpku@pku.edu.cn). 
+Remote Cooperations are welcome(lxtpku@pku.edu.cn).
 
 ![XiangTai Lee's github stats](https://github-readme-stats.vercel.app/api?username=lxtGH&show_icons=true)
