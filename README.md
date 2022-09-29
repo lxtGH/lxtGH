@@ -28,4 +28,4 @@ I have done several works on these directions during my PhD study at PKU.
 
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
-Remote Cooperations are welcome(lxtpku@pku.edu.cn).
+Remote Cooperations are welcome(lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg).
