@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I am Xiangtai and I obtained my PhD degree at Peking University.
 
-🔭 I'm a research fellow at MMlab@NTU advised by Prof.CCLoy.
+🔭 I'm a research fellow at MMlab@NTU supervised by Prof.CCLoy.
 
 🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
