@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Xiangtai and I obtained my PhD degree at Peking University.
+I am Xiangtai and I obtained my PhD degree at Peking University. 
 
-🔭 I'm a research fellow at MMlab@NTU supervised by Prof.CCLoy.
+🔭 I'm a research fellow at MMlab@NTU supervised by [Prof.CCLoy](https://www.mmlab-ntu.com/person/ccloy/).
 
 🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
 
@@ -29,3 +29,5 @@ I have done several works on these directions during my PhD study at PKU.
 (video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
 
 Remote Cooperations Discussion on Research are welcome (my e-mail is lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg). 
+
+Checkout my works in my [homepage](https://lxtgh.github.io/).
