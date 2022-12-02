@@ -30,4 +30,8 @@ I have done several works on these directions during my PhD study at PKU.
 
 Remote Cooperations Discussion on Research are welcome (my e-mail is lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg). 
 
+Most of my works (including I deeply involve) are open-sourced on Github. 
+
 Checkout my works in my [homepage](https://lxtgh.github.io/).
+
+
