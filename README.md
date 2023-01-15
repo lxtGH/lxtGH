@@ -22,16 +22,12 @@ I am Xiangtai and I obtained my PhD degree at Peking University.
 
 🔭 I'm a research fellow at MMlab@NTU supervised by [Prof.CCLoy](https://www.mmlab-ntu.com/person/ccloy/).
 
-🔭 I'm currently working on Segmentation in Computer Vision. Now I carry out the research on Image/Video Segmentaic/Instance/Panoptic Segmentation as well as several related problems.
-
-I have done several works on these directions during my PhD study at PKU.
-
-(video) semantic segmentation, (video) instance segmentation, (video) panoptic segmentation, panoptic segmentation with depth/part, transparent object, boundary feature learning, aerial segmentation, video object detection/tracking/segmentation，
+Checkout my works in my [homepage](https://lxtgh.github.io/).
 
 Remote Cooperations Discussion on Research are welcome (my e-mail is lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg). 
 
 Most of my works (including I deeply involve) are open-sourced on Github. 
 
-Checkout my works in my [homepage](https://lxtgh.github.io/).
+
 
 
