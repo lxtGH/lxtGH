@@ -26,6 +26,3 @@ I am Xiangtai, and I obtained my PhD degree from Peking University. Currently, I
 You can find my published works on [my homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg.
 
 Moreover, most of my works, including the ones I have deeply contributed to, are open-sourced on GitHub.
-
-
-[![Xiangtai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxtGH&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=default)
