@@ -1,7 +1,7 @@
 <!--### Hi there 👋
 
 
-
+[![GitHub Stars](https://img.shields.io/github/stars/lxtGH?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/lxtGH)
 
 
 **lxtGH/lxtGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
