@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 [![Website](https://img.shields.io/website?label=lxtgh.github.io&style=for-the-badge&up_message=up&url=https://lxtgh.github.io/)](https://lxtgh.github.io/)
-[![GitHub Stars](https://img.shields.io/github/stars/HarborYuan?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/HarborYuan)
+[![GitHub Stars](https://img.shields.io/github/stars/lxtGH?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/lxtGH)
 
 
 I am Xiangtai, and I obtained my PhD degree from Peking University. Currently, I am a research fellow at MMlab@NTU, where I am supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
