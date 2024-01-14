@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 I am Xiangtai, and I obtained my PhD degree from Peking University. Currently, I am a research fellow at MMlab@NTU, where I am supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
-You can find my published works on [my homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at lxtpku@pku.edu.cn or xiangtai.li@ntu.edu.sg.
+You can find my published works on [my homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
 
 Moreover, most of my works, including the ones I have deeply contributed to, are open-sourced on GitHub.
