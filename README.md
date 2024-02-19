@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{lxtGH})
 
-I am Xiangtai, and I obtained my PhD degree from Peking University. Currently, I am a research fellow at MMlab@NTU, where [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/) supervises me.
+I am Xiangtai, and I obtained my PhD degree from Peking University. I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
 You can find my published works on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
 
