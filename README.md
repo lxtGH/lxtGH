@@ -22,8 +22,14 @@ Here are some ideas to get you started:
 
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{lxtGH})
 
-I am Xiangtai, and I obtained my PhD degree from Peking University. I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+My name is Xiangtai. I obtained my Ph.D. from Peking University. I work as a Research Scientist at Skywork AI in Singapore.
 
-You can find my published works on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
+I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
+
+My published works are on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
+
+
+I love coding and building universal/larger/efficient models (pure vision and multi-modal large language models). 
+
 
 Moreover, most of my works, including the ones I have profoundly contributed to, are open-sourced on GitHub.
