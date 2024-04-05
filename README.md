@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{lxtGH})
 
-My name is Xiangtai. I obtained my Ph.D. from Peking University. I work as a Research Scientist at Skywork AI in Singapore.
+My name is Xiangtai. I obtained my Ph.D. from Peking University.
 
 I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/).
 
