@@ -29,7 +29,7 @@ I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](http
 My published works are on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
 
 
-I love coding and building universal/larger/efficient models (pure vision and multi-modal large language models). 
+I love coding and building universal, larger, efficient models (pure vision and multi-modal large language models). 
 
 
 Moreover, most of my works, including the ones I have profoundly contributed to, are open-sourced on GitHub.
