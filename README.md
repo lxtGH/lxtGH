@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{lxtGH})
 
-My name is Xiangtai. I am working as a Research Scientist at Bytedance, Singapore. 
+My name is Xiangtai. My research focuses on computer vision, deep learning, and multi-modal models.
 
 I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). I have worked as a research scientist/associate at various places before, including JD, Skywork AI, and Shanghai AI Laboratory. I obtained my Ph.D. from Peking University.
 
-My published works are on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Feel free to contact me via email at xiangtai94@gmail.com.
+My published works are on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Please feel free to email me at xiangtai94@gmail.com.
 
 
 I love coding and building universal, larger, efficient models (pure vision and multi-modal large language models). 
