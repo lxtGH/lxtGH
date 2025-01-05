@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 My name is Xiangtai. My research focuses on computer vision, deep learning, and multi-modal models.
 
+Currently, I am working as a Research Scientist at Bytedance Seed in SG.
+
 I was a research fellow at MMlab@NTU, supervised by [Prof. Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/). I have worked as a research scientist/associate at various places before, including JD, Sensetime, and Shanghai AI Laboratory. I obtained my Ph.D. from Peking University.
 
 My published works are on my [homepage](https://lxtgh.github.io/), and I am open to discussing potential remote collaborations on research. Please feel free to email me at xiangtai94@gmail.com.
